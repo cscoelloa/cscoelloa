@@ -21,8 +21,8 @@
 │  $ whoami                    │   client    Next.js · React · TypeScript
 │  ► backend / full-stack      │   ia        LangChain · LangGraph · LLMs
 │  ► ia aplicada               │   datos     PostgreSQL · Redis · Docker
-│                              │   learning  Go · net/http · SQLite
-│  $ █                         │   status    ■ ONLINE · システム稼働中
+│                              │   status    ■ ONLINE · システム稼働中
+│  $ █                         │ 
 └──────────────────────────────┘
 ```
 
