@@ -22,7 +22,6 @@
 │  ► backend / full-stack      │   ia        LangChain · LangGraph · LLMs
 │  ► ia aplicada               │   datos     PostgreSQL · Redis · Docker
 │                              │   status    ■ ONLINE · システム稼働中
-│  $ █                         │ 
 └──────────────────────────────┘
 ```
 
